@@ -1,0 +1,1 @@
+G := Graph([a, b, c, d], [[a, b], [a, c], [b, c], [c, d]], EdgeWeights = [2, 1, 3, 2],EdgeCosts = [1, 3,1, 2],Directed):
